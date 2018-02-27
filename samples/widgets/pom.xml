@@ -54,6 +54,9 @@
         <module>sales-dashboard-widgets/RevenueByRegion</module>
         <module>sales-dashboard-widgets/RevenuePercentage</module>
         <module>sales-dashboard-widgets/RevenuePerYear</module>
+        <module>http-analytics-widgets/DatePicker</module>
+        <module>http-analytics-widgets/LatencyChart</module>
+        <module>http-analytics-widgets/LineCharts</module>
     </modules>
 
 </project>
