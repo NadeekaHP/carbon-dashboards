@@ -1,0 +1,12 @@
+{
+    "name": "LineChart",
+    "id": "LineChart",
+    "thumbnailURL": "",
+    "configs": {
+        "pubsub": {
+            "types": [
+                "subscriber"
+            ]
+        }
+    }   
+}

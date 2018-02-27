@@ -1,0 +1,12 @@
+{
+    "name": "LatencyChart",
+    "id": "LatencyChart",
+    "thumbnailURL": "",
+    "configs": {
+        "pubsub": {
+            "types": [
+                "subscriber"
+            ]
+        }
+    }   
+}
