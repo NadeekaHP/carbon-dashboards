@@ -1,0 +1,10 @@
+{
+  "name": "MyDatePicker",
+  "id": "MyDatePicker",
+  "thumbnailURL": "",
+  "configs": {
+    "pubsub": {
+      "types": ["publisher"]
+    }
+  }
+}
